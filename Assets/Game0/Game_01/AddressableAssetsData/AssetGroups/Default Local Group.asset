@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6cbd6a835caac7f43ab5db99e78e7067
+  m_SerializeEntries:
+  - m_GUID: d2d3d7e267aaa374db646bfe7372afdd
+    m_Address: Assets/Resources_moved/Levels/Level_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3af5fee2f5118745b270eb43df64403
+    m_Address: Assets/Resources_moved/Levels/Level_6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6befa9543ce244498edabce9179b469
+    m_Address: Assets/Resources_moved/Levels/Level_5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ad534c788185a1419fe0d49eb2e8e57
+    m_Address: Assets/Resources_moved/Levels/Level_7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da63390ef26f2404f943dca9f02cc4b7
+    m_Address: Assets/Resources_moved/Levels/Level_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd41fe456b0293741a5681ea5d578b27
+    m_Address: Assets/Resources_moved/Levels/Level_4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aee8350d3ff81264c91452fad93d1c3f
+    m_Address: Assets/Resources_moved/Levels/Level_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0e57ac18f63a3954fab0150489f7e42e
+    m_Address: Assets/Resources_moved/Levels/Level_8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4b715f2045c57f2418e7c0da278567b7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 936895c94668bd842900b979fcad81c0, type: 2}
+    - {fileID: 11400000, guid: bab3d517f6f9ccf41b05d57429cd6c14, type: 2}

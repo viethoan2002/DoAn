@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39e8ec718b86a15438451f44c8813d03, type: 3}
+  m_Name: GameDataConfig
+  m_EditorClassIdentifier: 
+  GameData:
+  - miniGameAsset:
+      m_AssetGUID: fee8597772cafb14eb88fe112ae26631
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    useBackground: 1
+    backgroundSprite: {fileID: 21300000, guid: 367e025bbee760b4d85000c48e53bac3, type: 3}
+  - miniGameAsset:
+      m_AssetGUID: 7eef3dd442434724cbaae996fe4a96a4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    useBackground: 1
+    backgroundSprite: {fileID: 21300000, guid: 367e025bbee760b4d85000c48e53bac3, type: 3}
+  - miniGameAsset:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    useBackground: 1
+    backgroundSprite: {fileID: 21300000, guid: 367e025bbee760b4d85000c48e53bac3, type: 3}
+  - miniGameAsset:
+      m_AssetGUID: a1fb2f4d9f5d62844887043ab0f27bc6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    useBackground: 1
+    backgroundSprite: {fileID: 21300000, guid: 367e025bbee760b4d85000c48e53bac3, type: 3}
