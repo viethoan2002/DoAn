@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 795531767666344681}
   - component: {fileID: 3815286676449619543}
   - component: {fileID: -3206452635711293844}
-  m_Layer: 12
+  m_Layer: 14
   m_Name: HandLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -149,7 +149,7 @@ MonoBehaviour:
   curG3BodyNode: {fileID: 0}
   layerCheck:
     serializedVersion: 2
-    m_Bits: 4279
+    m_Bits: 24759
   vectorTarget: {x: 0, y: 0}
   spriteRenderer: {fileID: 1061039786095862400}
   defaultSprite: {fileID: 21300000, guid: bf9997d28894f9f48ba873ed115a7aaf, type: 3}
@@ -194,7 +194,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3792932150056033956}
   - component: {fileID: 1061039786095862400}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}

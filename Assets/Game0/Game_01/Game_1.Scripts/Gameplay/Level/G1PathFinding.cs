@@ -21,7 +21,6 @@ namespace Game_01.Game_1.Scripts.Gameplay.Level
         private const int MoveDiagonalCost = 14;
 
         [FormerlySerializedAs("grid")] [SerializeField] private G1Grid g1Grid;
-        //[SerializeField] private List<Obstacle> obstacles = new List<Obstacle>();
         private List<G1PathNode> _openList;
         private List<G1PathNode> _closedList;
 
@@ -33,16 +32,6 @@ namespace Game_01.Game_1.Scripts.Gameplay.Level
         public void CreatePathfinding(int width, int height,float cellSize ,Transform originPosition)
         {
             g1Grid.CreateGrid(width, height, cellSize, originPosition.position);
-            /*foreach (var obstacle in obstacles)
-            {
-                for (int i = 0; i < obstacle.width; i++)
-                {
-                    for (int j = 0; j < obstacle.height; j++)
-                    {
-                        grid.GetPathNode(obstacle.x+i,obstacle.y+j).SetIsWalkable(false);
-                    }
-                }
-            }*/
         }
 
 

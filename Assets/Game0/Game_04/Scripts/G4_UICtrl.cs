@@ -46,7 +46,7 @@ public class G4_UICtrl : MonoBehaviour
     {
         _switch = false;
         moveContent.SetActive(true);
-        switchBtn.GetComponent<Image>().sprite = moveSprite;
+        switchBtn.GetComponent<Image>().sprite = swingSprite;
         switchText.text = "Swing";
         switchContent.SetActive(false);
     }

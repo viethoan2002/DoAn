@@ -18,6 +18,7 @@ MonoBehaviour:
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
+    nameGame: WAY TO THE HOME
     useBackground: 1
     backgroundSprite: {fileID: 21300000, guid: 367e025bbee760b4d85000c48e53bac3, type: 3}
   - miniGameAsset:
@@ -25,13 +26,15 @@ MonoBehaviour:
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
+    nameGame: THE LAST ROAD
     useBackground: 1
     backgroundSprite: {fileID: 21300000, guid: 367e025bbee760b4d85000c48e53bac3, type: 3}
   - miniGameAsset:
-      m_AssetGUID: 
+      m_AssetGUID: 4b69d16e9f6b8bc459d0ad79940f6daa
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
+    nameGame: SHAKE HANDS
     useBackground: 1
     backgroundSprite: {fileID: 21300000, guid: 367e025bbee760b4d85000c48e53bac3, type: 3}
   - miniGameAsset:
@@ -39,5 +42,6 @@ MonoBehaviour:
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
+    nameGame: "Shepherd\u2019s JOURNEY"
     useBackground: 1
     backgroundSprite: {fileID: 21300000, guid: 367e025bbee760b4d85000c48e53bac3, type: 3}
